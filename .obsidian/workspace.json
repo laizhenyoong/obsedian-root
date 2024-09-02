@@ -16,18 +16,6 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "037a38abe96b86b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000 Generalities/005 Computer Programming/Phosphor Icons.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -154,15 +142,18 @@
   },
   "active": "608d389c148b4f27",
   "lastOpenFiles": [
-    "000 Generalities/005 Computer Programming/Phosphor Icons.md",
     "000 Generalities/005 Computer Programming/Material UI.md",
+    "000 Generalities/005 Computer Programming/Lucide React.md",
+    "000 Generalities/005 Computer Programming/Redux.md",
+    "000 Generalities/005 Computer Programming/React.js.md",
+    "Angular.js.md",
+    "React.md",
+    "000 Generalities/005 Computer Programming/Phosphor Icons.md",
     "000 Generalities/005 Computer Programming/CSS.md",
     "000 Generalities/005 Computer Programming/CSS Selectors.md",
     "000 Generalities/005 Computer Programming/Combinator Selectors.md",
     "000 Generalities/005 Computer Programming/Pseudo-class Selectors.md",
     "000 Generalities/005 Computer Programming/MERN Stack.md",
-    "000 Generalities/005 Computer Programming/React.js.md",
-    "000 Generalities/005 Computer Programming/Lucide React.md",
     "Untitled.canvas",
     "000 Generalities/005 Computer Programming/Express.js.md",
     "000 Generalities/004 Data Processing/MongoDB.md",
