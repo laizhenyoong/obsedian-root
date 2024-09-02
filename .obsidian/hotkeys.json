@@ -1,0 +1,11 @@
+{
+  "markdown:add-metadata-property": [],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "0"
+    }
+  ]
+}

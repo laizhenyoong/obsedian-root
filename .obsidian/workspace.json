@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "4568f199b6ed208c",
+    "type": "split",
+    "children": [
+      {
+        "id": "cefb2dd0d8297ce2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "608d389c148b4f27",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "037a38abe96b86b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 Generalities/005 Computer Programming/Phosphor Icons.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d997517eb20a52e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc2187677885b9fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86b2d63559367d28",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e36d1cca8ccec63d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4cb8c21f419191e7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b7a4a978256b748c",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc8e2a81b18f773e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "958da897f1136ef6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c6e9cf18ca537cb5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "716499f585d07a02",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4c4323e7ebd53732",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "608d389c148b4f27",
+  "lastOpenFiles": [
+    "000 Generalities/005 Computer Programming/Phosphor Icons.md",
+    "000 Generalities/005 Computer Programming/Material UI.md",
+    "000 Generalities/005 Computer Programming/CSS.md",
+    "000 Generalities/005 Computer Programming/CSS Selectors.md",
+    "000 Generalities/005 Computer Programming/Combinator Selectors.md",
+    "000 Generalities/005 Computer Programming/Pseudo-class Selectors.md",
+    "000 Generalities/005 Computer Programming/MERN Stack.md",
+    "000 Generalities/005 Computer Programming/React.js.md",
+    "000 Generalities/005 Computer Programming/Lucide React.md",
+    "Untitled.canvas",
+    "000 Generalities/005 Computer Programming/Express.js.md",
+    "000 Generalities/004 Data Processing/MongoDB.md",
+    "000 Generalities/005 Computer Programming/HTML.md",
+    "000 Generalities/004 Data Processing/NoSQL.md",
+    "000 Generalities/005 Computer Programming/Attribute Selectors.md",
+    "000 Generalities/005 Computer Programming/Simple Selectors.md",
+    "000 Generalities/005 Computer Programming/Pseudo-elements Selectors.md",
+    "900 Others/901 Images/Pasted image 20240822154845.png",
+    "900 Others/901 Images",
+    "000 Generalities/005 Computer Programming/Node.js.md",
+    "000 Generalities/005 Computer Programming/JavaScript.md",
+    "Pseudo-elements selectors.md",
+    "Combinator selectors.md",
+    "Pasted image 20240822144205.png",
+    "900 Others/901 Images",
+    "Pasted image 20240822144211.png",
+    "600 Technology/602 Invention & Patents/Customer Service Agent.md",
+    "600 Technology/631 Artificial Intelligence",
+    "2024-08-22.md"
+  ]
+}
