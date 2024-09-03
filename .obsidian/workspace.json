@@ -16,8 +16,33 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "0eafdcce2c9d8b91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 Generalities/008 Information Technology/AWS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b7805a6fcc79e93b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 Generalities/008 Information Technology/AWS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "000 Generalities/008 Information Technology/AWS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "000 Generalities/008 Information Technology/AWS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "000 Generalities/008 Information Technology/AWS.md"
+              }
             }
           }
         ],
@@ -140,13 +169,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "608d389c148b4f27",
+  "active": "b7805a6fcc79e93b",
   "lastOpenFiles": [
+    "000 Generalities/008 Information Technology/AWS.md",
+    "000 Generalities/004 Data Processing/NoSQL.md",
+    "JSON.md",
+    "Untitled.canvas",
+    "000 Generalities/005 Computer Programming/Angular.js.md",
+    "000 Generalities/008 Information Technology/MongoDB.md",
+    "000 Generalities/008 Information Technology",
+    "000 Generalities/005 Computer Programming/Redux.md",
+    "000 Generalities/005 Computer Programming/Simple Selectors.md",
+    "000 Generalities/005 Computer Programming/Node.js.md",
     "000 Generalities/005 Computer Programming/Material UI.md",
     "000 Generalities/005 Computer Programming/Lucide React.md",
-    "000 Generalities/005 Computer Programming/Redux.md",
     "000 Generalities/005 Computer Programming/React.js.md",
-    "Angular.js.md",
     "React.md",
     "000 Generalities/005 Computer Programming/Phosphor Icons.md",
     "000 Generalities/005 Computer Programming/CSS.md",
@@ -154,25 +191,18 @@
     "000 Generalities/005 Computer Programming/Combinator Selectors.md",
     "000 Generalities/005 Computer Programming/Pseudo-class Selectors.md",
     "000 Generalities/005 Computer Programming/MERN Stack.md",
-    "Untitled.canvas",
     "000 Generalities/005 Computer Programming/Express.js.md",
-    "000 Generalities/004 Data Processing/MongoDB.md",
     "000 Generalities/005 Computer Programming/HTML.md",
-    "000 Generalities/004 Data Processing/NoSQL.md",
     "000 Generalities/005 Computer Programming/Attribute Selectors.md",
-    "000 Generalities/005 Computer Programming/Simple Selectors.md",
     "000 Generalities/005 Computer Programming/Pseudo-elements Selectors.md",
     "900 Others/901 Images/Pasted image 20240822154845.png",
     "900 Others/901 Images",
-    "000 Generalities/005 Computer Programming/Node.js.md",
     "000 Generalities/005 Computer Programming/JavaScript.md",
     "Pseudo-elements selectors.md",
     "Combinator selectors.md",
     "Pasted image 20240822144205.png",
     "900 Others/901 Images",
     "Pasted image 20240822144211.png",
-    "600 Technology/602 Invention & Patents/Customer Service Agent.md",
-    "600 Technology/631 Artificial Intelligence",
-    "2024-08-22.md"
+    "600 Technology/631 Artificial Intelligence"
   ]
 }
