@@ -14,7 +14,9 @@
             "state": {
               "type": "graph",
               "state": {},
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -37,7 +39,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -52,7 +56,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -60,7 +66,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -90,7 +98,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -101,7 +111,9 @@
               "state": {
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -112,7 +124,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -120,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ],
@@ -128,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -142,34 +159,37 @@
   },
   "active": "608d389c148b4f27",
   "lastOpenFiles": [
+    "000 Generalities/005 Computer Programming/JSON Web Token.md",
+    "Pasted image 20240925154150.png",
+    "Pasted image 20240925154046.png",
+    "Pasted image 20240925153958.png",
+    "Pasted image 20240925153857.png",
+    "000 Generalities/008 Information Technology/AWS CDK.md",
+    "000 Generalities/004 Data Processing/Web Socket.md",
+    "000 Generalities/005 Computer Programming/API.md",
+    "MUI Stack.md",
+    "000 Generalities/004 Data Processing/Rest API.md",
+    "000 Generalities/004 Data Processing/JSON.md",
+    "000 Generalities/005 Computer Programming/React Router.md",
+    "000 Generalities/005 Computer Programming/React Markdown.md",
+    "000 Generalities/008 Information Technology/Amazon Lex.md",
+    "000 Generalities/008 Information Technology/Amazon EC2.md",
+    "000 Generalities/005 Computer Programming/Material UI.md",
+    "000 Generalities/005 Computer Programming/Morgan.md",
+    "000 Generalities/005 Computer Programming/Express Rate Limit.md",
+    "000 Generalities/005 Computer Programming/Yup.md",
+    "000 Generalities/005 Computer Programming/Express.js.md",
+    "000 Generalities/005 Computer Programming/Node.js.md",
+    "000 Generalities/005 Computer Programming/React.js.md",
+    "000 Generalities/008 Information Technology/DOM.md",
+    "000 Generalities/005 Computer Programming/Vue.js.md",
+    "000 Generalities/005 Computer Programming/Angular.js.md",
     "000 Generalities/008 Information Technology/Amazon SQS.md",
     "000 Generalities/008 Information Technology/Amazon S3.md",
     "000 Generalities/008 Information Technology/Amazon RDS.md",
-    "000 Generalities/004 Data Processing/JSON.md",
     "000 Generalities/004 Data Processing/NoSQL.md",
-    "000 Generalities/004 Data Processing/SQL.md",
-    "000 Generalities/008 Information Technology/Amazon Lambda.md",
-    "000 Generalities/008 Information Technology/Amazon EC2.md",
-    "000 Generalities/008 Information Technology/Amazon DynamoDB.md",
-    "000 Generalities/008 Information Technology/Amazon CloudFront.md",
-    "000 Generalities/008 Information Technology/Amazon Web Services.md",
-    "000 Generalities/008 Information Technology/MongoDB.md",
-    "000 Generalities/005 Computer Programming/Simple Selectors.md",
-    "000 Generalities/005 Computer Programming/Redux.md",
-    "000 Generalities/005 Computer Programming/Pseudo-elements Selectors.md",
     "Untitled.canvas",
-    "000 Generalities/005 Computer Programming/Angular.js.md",
     "000 Generalities/008 Information Technology",
-    "000 Generalities/005 Computer Programming/Node.js.md",
-    "000 Generalities/005 Computer Programming/Material UI.md",
-    "000 Generalities/005 Computer Programming/Lucide React.md",
-    "000 Generalities/005 Computer Programming/React.js.md",
-    "React.md",
-    "000 Generalities/005 Computer Programming/Phosphor Icons.md",
-    "000 Generalities/005 Computer Programming/CSS.md",
-    "000 Generalities/005 Computer Programming/CSS Selectors.md",
-    "000 Generalities/005 Computer Programming/Combinator Selectors.md",
-    "000 Generalities/005 Computer Programming/Pseudo-class Selectors.md",
     "900 Others/901 Images/Pasted image 20240822154845.png",
     "900 Others/901 Images",
     "Pasted image 20240822144205.png",
